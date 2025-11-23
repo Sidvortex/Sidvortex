@@ -80,27 +80,9 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ 31tce3goe2e6slbhogjjgqztc6iu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031tce3goe2e6slbhogjjgqztc6iu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:sidvortex?theme=sketch-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidvortex/sidvortex/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidvortex/sidvortex/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sidvortex/sidvortex/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
