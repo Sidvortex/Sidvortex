@@ -1,94 +1,166 @@
-<br clear="both">
+<div align="center">
 
-<h1 align="center">⚡ I go by Ravada Siddharth — crafting AI systems and art that break the usual patterns⚡</h1>
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██████╗ ██╗██████╗ ██╗   ██╗ ██████╗ ██████╗ ████████╗███████╗██╗  ██╗║
+║    ██╔════╝██║██╔══██╗██║   ██║██╔═══██╗██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝║
+║    ███████╗██║██║  ██║██║   ██║██║   ██║██████╔╝   ██║   █████╗   ╚███╔╝ ║
+║    ╚════██║██║██║  ██║╚██╗ ██╔╝██║   ██║██╔══██╗   ██║   ██╔══╝   ██╔██╗ ║
+║    ███████║██║██████╔╝ ╚████╔╝ ╚██████╔╝██║  ██║   ██║   ███████╗██╔╝ ██╗║
+║    ╚══════╝╚═╝╚═════╝   ╚═══╝   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF006E&center=true&vCenter=true&repeat=false&width=600&lines=AGAIN+AND+AGAIN" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=500&color=00F5FF&center=true&vCenter=true&width=435&lines=%E2%9A%A0+LOW+BATTERY;%F0%9F%92%BB+I+NEED+TO+DO+MORE;%F0%9F%A7%A0+PRODUCTIVITY%3A+30%25;%E2%9C%A8+MOTIVATION%3A+100%25" alt="Status" />
+
+---
+
+### 👁️ `[SYSTEM ONLINE]` 👁️
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+```ascii
+┌─────────────────────────────────────────────┐
+│  [◉] UNFINISHED IDEA I                     │
+│  > Building pixel dreams in code...         │
+│                                             │
+│  [◉] UNFINISHED IDEA II                    │
+│  > 99 problems, 100 repos                   │
+│                                             │
+│  [◉] UNFINISHED PROJECT                    │
+│  > sleep.exe stopped working                │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" height="60" alt="matlab logo"  />
+
+## 🔗 `[TRANSMISSION LINKS]`
+
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](YOUR_LINKTREE_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/siddharth-ravada-a032b52a2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/crisisbysid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://dev.to/sidmindmirror" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-  <a href="https://linktr.ee/sidmindmirror" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
+
+## 💾 `[TECH STACK]`
+
+<img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nodejs,git,vscode,linux&theme=dark" />
+
+```diff
+@@                     CORE SYSTEMS                      @@
++ Python  ████████████████████████░░░░░  80%
++ HTML    ████████████████████░░░░░░░░░  70%
++ JS      ███████████████████░░░░░░░░░░  65%
++ TS      ██████████████░░░░░░░░░░░░░░░  50%
+! Status: [PERPETUALLY LEARNING]
+```
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sidvortex&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
-###
+## 📊 `[NEURAL NETWORK STATISTICS]`
+
+<img src="https://github-readme-stats.vercel.app/api?username=sidvortex&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=00F5FF&text_color=FFFFFF&ring_color=FF006E" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidvortex&theme=synthwave&hide_border=true&background=0D1117&stroke=FF006E&ring=FF006E&fire=00F5FF&currStreakLabel=00F5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FF006E" width="48%" />
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidvortex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidvortex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidvortex&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidvortex&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF&icon_color=00F5FF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidvortex&theme=synthwave&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF006E&point=FFFFFF&area=true&area_color=FF006E" width="48%" />
+
+</div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:sidvortex?theme=sketch-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+
+### 🏆 `[ACHIEVEMENT_UNLOCKED.exe]`
+
+<img src="https://github-profile-trophy.vercel.app/?username=sidvortex&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=FF006E&text_color=00F5FF&icon_color=00F5FF" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+## 📈 `[CONTRIBUTION MATRIX]`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sidvortex&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F5FF&line=FF006E&point=FFFFFF&area=true&hide_border=true&area_color=FF006E" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidvortex&theme=synthwave" width="95%" />
+
 </div>
 
-###
+---
+
+<div align="center">
+
+## ⚡ `[REAL-TIME METRICS]`
+
+<img src="https://komarev.com/ghpvc/?username=sidvortex&label=PROFILE+VIEWS&color=ff006e&style=for-the-badge" alt="Profile Views" />
+
+```javascript
+const sidvortex = {
+    status: "I NEED TO DO MORE",
+    currentlyLearning: ["AI/ML", "Web3", "System Design"],
+    hobbies: ["Coding at 3AM", "Breaking prod", "Coffee++"],
+    funFact: "There are two types of people: those who finish their side projec—"
+};
+```
+
+### 💤 `[WAKE_UP_ALARM.mp3]`
+```
+⏰ Your alarm is set for: NEVER
+🔋 Battery: CRITICAL
+🧠 Brain: OVERCLOCKED
+☕ Coffee levels: DANGEROUSLY LOW
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it, it's bad."   ║
+║                                                                  ║
+║  👁️  [SYSTEM STATUS]: ONLINE BUT TIRED                         ║
+║  💀  [ERROR 404]: SOCIAL LIFE NOT FOUND                        ║
+║  🔥  [WARNING]: COMMIT STREAK IN DANGER                        ║
+║  ✨  [REMINDER]: git commit -m "fix: everything"              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### 🎮 `[PRESS START TO CONTINUE]`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=3000&color=FF006E&center=true&vCenter=true&width=435&lines=%E2%96%B6+Loading+next+bug...;%E2%96%B6+Compiling+dreams...;%E2%96%B6+Debugging+life...;%E2%96%B6+Pushing+to+prod...+YOLO" alt="Footer" />
+
+---
+
+**`[EOF]` - End of File | Built with 💙 and lots of ☕**
+
+</div>
